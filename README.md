@@ -2,7 +2,6 @@
 
 A real‑time, high‑fidelity digital twin simulation of a Continuous Glucose Monitor (CGM). This React‑based simulator implements the **Hovorka glucose‑insulin model** (two‑compartment insulin action) and the **Dalla Man meal absorption model**, combined with a realistic electrochemical sensor model including drift, noise, and calibration schedules. It includes advanced digital twin features such as model deviation tracking, fault injection, federated learning simulation, forward prediction, and a blockchain‑based component ledger. The interface is designed in the **Obsidian Medical** style – a premium black‑glass aesthetic with custom fonts and smooth animations.
 
-![CGM Digital Twin Screenshot](screenshot.png) *(replace with actual screenshot)*
 
 ---
 
